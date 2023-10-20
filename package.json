@@ -1,0 +1,19 @@
+{
+  "name": "pi-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard for home device interaction to be hosted on a raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Masked-Code/pi-dashboard.git"
+  },
+  "author": "Masked",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masked-Code/pi-dashboard/issues"
+  },
+  "homepage": "https://github.com/Masked-Code/pi-dashboard#readme"
+}
